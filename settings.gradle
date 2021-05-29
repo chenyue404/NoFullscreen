@@ -1,0 +1,2 @@
+rootProject.name = "NoFullscreen"
+include ':app'

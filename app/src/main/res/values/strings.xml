@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoFullscreen</string>
+    <string name="xposed_description">No Fullscreen</string>
+</resources>
